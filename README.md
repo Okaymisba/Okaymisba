@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=93a19f&size=30&lines=Hi,+I'm+Misbah+Sarfaraz;Full+Stack+Developer;Building+cool+things;Always+learning;Always+improving)](https://git.io/typing-svg)
-
-I love building cool stuff with code.  
-Always learning and exploring new technologies.
+<h1 align="center">Hi 👋, I'm Misbah Sarfaraz</h1>
+<h3 align="center">I love building cool stuff with code.</h3>
+<h3 align="center">Always learning and exploring new technologies.</h3>
+ 
 
 ## 📈 GitHub Stats
 
@@ -11,6 +11,22 @@ Always learning and exploring new technologies.
     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=okaymisba&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
+
+---
+
+[//]: # (<a href="https://gitroll.io/profile/uGw0PR4l2csXiEUWBV7K75odtry12" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uGw0PR4l2csXiEUWBV7K75odtry12?theme=dark" alt="GitRoll Profile Badge"/></a>)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=okaymisba&margin-h=15&margin-w=15)](https://github.com/okaymisba)
+
+<div style="display: flex; flex-direction: row;">
+<a href="https://www.githubtrends.io/wrapped/okaymisba">
+<img src="https://api.githubtrends.io/user/svg/okaymisba/langs?time_range=one_year&theme=ferns" />
+</a>
+<a href="https://www.githubtrends.io/wrapped/okaymisba" >
+<img src="https://api.githubtrends.io/user/svg/okaymisba/repos?time_range=one_year&theme=ferns" />
+</a>
+</div>
+
 
 ---
 
