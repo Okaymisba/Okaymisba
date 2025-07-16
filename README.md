@@ -18,15 +18,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=okaymisba&margin-h=15&margin-w=15)](https://github.com/okaymisba)
 
-<div style="display: flex; flex-direction: row;">
-<a href="https://www.githubtrends.io/wrapped/okaymisba">
-<img src="https://api.githubtrends.io/user/svg/okaymisba/langs?time_range=one_year&theme=ferns" />
-</a>
-<a href="https://www.githubtrends.io/wrapped/okaymisba" >
-<img src="https://api.githubtrends.io/user/svg/okaymisba/repos?time_range=one_year&theme=ferns" />
-</a>
-</div>
-
 
 ---
 
