@@ -7,8 +7,15 @@
 
 <p align="center">
   <a href="https://github.com/okaymisba">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=okaymisba&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=okaymisba&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=okaymisba&show_icons=true&theme=classic&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=okaymisba&layout=compact&langs_count=8&theme=classic"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/okaymisba">
+    <img src="https://api.githubtrends.io/user/svg/Okaymisba/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic"/>
+   <img src="https://api.githubtrends.io/user/svg/Okaymisba/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=classic"/>
   </a>
 </p>
 
