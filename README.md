@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Misbah Sarfaraz</h1>
 <h3 align="center">I love building cool stuff with code.</h3>
 <h3 align="center">Always learning and exploring new technologies.</h3>
+
+## Badges
+
+<a href="https://gitquest.dev/player/Okaymisba" target="_blank"><img src="https://gitquest.dev/api/badges?type=ranking&rank=5&theme=dark" style="border-radius: 11px;" alt="GitQuest Badge"></a>
  
 
 ## 📈 GitHub Stats
