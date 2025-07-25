@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://gitquest.dev/player/Okaymisba" target="_blank">
+    <a href="https://gitquest.dev/player/Okaymisba" target="_blank"><img src="https://gitquest.dev/api/badges?type=ranking&rank=1&theme=dark" style="border-radius: 11px;" alt="GitQuest Badge"></a>
     <img src="https://gitquest.dev/api/badges?type=ranking&rank=5&theme=dark" style="border-radius: 11px;" alt="GitQuest Badge">
   </a>
 </p>
