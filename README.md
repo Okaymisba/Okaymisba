@@ -2,6 +2,7 @@
 <p align="center">
   <a href="https://gitquest.dev/player/Okaymisba" target="_blank">
 <img src="https://img.shields.io/badge/GitQuest%20Winner-1st Place-ffd700" alt="GitQuest Winner">
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=okaymisba" alt="okaymisba" /> 
 </a>
 </p>
 
