@@ -29,7 +29,7 @@
 
 - 💬 Ask me about **software development, problem solving, project building, and turning ideas into real-world solutions.**  
 
-- 📫 How to reach me: **misba.dev@protonmail.com**  
+- 📫 How to reach me: **msbahsarfaraz@gmail.com**  
 
 
 ## 📈 GitHub Stats
