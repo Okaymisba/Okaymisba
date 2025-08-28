@@ -26,18 +26,22 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/okaymisba">
-    <img src="https://api.githubtrends.io/user/svg/Okaymisba/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic"/>
-   <img src="https://api.githubtrends.io/user/svg/Okaymisba/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=classic"/>
-  </a>
-</p>
+[//]: # (<p align="center">)
 
----
+[//]: # (  <a href="https://github.com/okaymisba">)
+
+[//]: # (    <img src="https://api.githubtrends.io/user/svg/Okaymisba/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic"/>)
+
+[//]: # (   <img src="https://api.githubtrends.io/user/svg/Okaymisba/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=classic"/>)
+
+[//]: # (  </a>)
+
+[//]: # (</p>)
+
 
 [//]: # (<a href="https://gitroll.io/profile/uGw0PR4l2csXiEUWBV7K75odtry12" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uGw0PR4l2csXiEUWBV7K75odtry12?theme=dark" alt="GitRoll Profile Badge"/></a>)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=okaymisba&margin-h=15&margin-w=15)](https://github.com/okaymisba)
+[//]: # ([![trophy]&#40;https://github-profile-trophy.vercel.app/?username=okaymisba&margin-h=15&margin-w=15&#41;]&#40;https://github.com/okaymisba&#41;)
 
 
 
