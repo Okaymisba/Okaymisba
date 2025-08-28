@@ -29,8 +29,6 @@
 
 - 💬 Ask me about **software development, problem solving, project building, and turning ideas into real-world solutions.**  
 
-- 📫 How to reach me: **msbahsarfaraz@gmail.com**  
-
 
 ## 📈 GitHub Stats
 
