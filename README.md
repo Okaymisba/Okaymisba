@@ -18,6 +18,20 @@
   </a>
 </p>
 
+- 🌱 I’m currently building :
+    - [**EnvHub**](https://github.com/okaymisba/EnvHub) | Securely manage environment variables across projects with end-to-end encryption & team collaboration 🔐⚡
+    - [**Mash**](https://github.com/okaymisba/mash) | A lightweight, general-purpose, interpreted programming language designed for simplicity and ease of use 🌀✨
+    - [**CommitCraft**](https://github.com/okaymisba/Commit-Craft) | A VSCode extension that uses AI to generate meaningful commit messages from your staged changes 🤖📝
+    - [**Jobsprep24**](https://jobsprep24.com) | A career platform offering resume building, job search, application tracking, and interview preparation 💼🌍  
+    - [**Chatting Application**](https://github.com/okaymisba/D-Chat) | A desktop chat app built with Python & Tkinter 💬  
+    - [**Line Counter**](https://github.com/okaymisba/Rumi) | A tool to visualize lines of code added/removed over time 📊✨  
+    - [**HealthSync**](https://github.com/okaymisba/healthSync) | A project to sync and analyze health data from smart devices ❤️⌚    
+
+- 💬 Ask me about **software development, problem solving, project building, and turning ideas into real-world solutions.**  
+
+- 📫 How to reach me: **misba.dev@protonmail.com**  
+
+
 ## 📈 GitHub Stats
 
 <p align="center">
