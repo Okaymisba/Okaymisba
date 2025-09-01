@@ -25,7 +25,6 @@
     - [**Jobsprep24**](https://jobsprep24.com) | A career platform offering resume building, job search, application tracking, and interview preparation 💼🌍  
     - [**Chatting Application**](https://github.com/okaymisba/D-Chat) | A desktop chat app built with Python & Tkinter 💬  
     - [**Line Counter**](https://github.com/okaymisba/Rumi) | A tool to visualize lines of code added/removed over time 📊✨  
-    - [**HealthSync**](https://github.com/okaymisba/healthSync) | A project to sync and analyze health data from smart devices ❤️⌚    
 
 - 💬 Ask me about **software development, problem solving, project building, and turning ideas into real-world solutions.**  
 
