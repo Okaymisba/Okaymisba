@@ -10,13 +10,13 @@
 <h3 align="center">I love building cool stuff with code.</h3>
 <h3 align="center">Always learning and exploring new technologies.</h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://gitquest.dev/player/Okaymisba" target="_blank">
     <a href="https://gitquest.dev/player/Okaymisba" target="_blank"><img src="https://gitquest.dev/api/badges?type=ranking&rank=1&theme=dark" style="border-radius: 11px;" alt="GitQuest Badge"></a>
     <a href="https://gitquest.dev/player/Okaymisba" target="_blank"><img src="https://gitquest.dev/api/badges?type=ranking&rank=3&theme=dark" style="border-radius: 11px;" alt="GitQuest Badge"></a>
     <img src="https://gitquest.dev/api/badges?type=ranking&rank=5&theme=dark" style="border-radius: 11px;" alt="GitQuest Badge">
   </a>
-</p>
+</p> -->
 
 - 🌱 I’m currently building :
     - [**EnvHub**](https://github.com/okaymisba/EnvHub) | Securely manage environment variables across projects with end-to-end encryption & team collaboration 🔐⚡
